@@ -1,0 +1,48 @@
+1. Agriculture: Comparing Crop Yields
+Scenario: A government agency wants to test the effectiveness of two farming techniques on maize yields.
+
+Dataset 1: Maize yields (bags per hectare) from farmers using traditional farming techniques.
+Dataset 2: Maize yields (bags per hectare) from farmers using modern farming techniques.
+Use Case: Perform a two-sample t-test to determine if the modern farming technique leads to significantly higher yields.
+
+2. Education: Comparing Student Performance
+Scenario: A study is conducted to evaluate the impact of using tablets in secondary schools on mathematics performance.
+
+Dataset 1: Test scores of students in schools with no tablets.
+Dataset 2: Test scores of students in schools using tablets for learning.
+Use Case: Perform a two-sample t-test to test if the use of tablets significantly improves mathematics scores.
+
+3. Health: Comparing Malaria Treatment Effectiveness
+Scenario: A pharmaceutical company compares the recovery times of malaria patients treated with two different drugs.
+
+Dataset 1: Recovery times (days) for patients using Drug A.
+Dataset 2: Recovery times (days) for patients using Drug B.
+Use Case: Perform a two-sample t-test to determine which drug is more effective in reducing recovery time.
+
+4. Climate Change: Comparing Temperatures in Tree-Planting Zones
+Scenario: A tree-planting initiative aims to reduce local temperatures in urban areas. The study compares temperatures in areas with and without tree planting.
+
+Dataset 1: Daily average temperatures in urban areas with tree planting.
+Dataset 2: Daily average temperatures in urban areas without tree planting.
+Use Case: Perform a two-sample t-test to test if tree planting significantly reduces temperatures.
+
+5. Renewable Energy: Comparing Solar Panel Adoption Impact
+Scenario: A non-governmental organization studies the impact of solar panel installations on household energy costs.
+
+Dataset 1: Monthly energy costs for households without solar panels.
+Dataset 2: Monthly energy costs for households with solar panels.
+Use Case: Perform a two-sample t-test to determine if solar panel adoption significantly reduces energy costs.
+
+6. Economy: Comparing Small Business Profits
+Scenario: The government provides business loans to small enterprises and wants to evaluate their impact on profits.
+
+Dataset 1: Monthly profits of businesses without government loans.
+Dataset 2: Monthly profits of businesses with government loans.
+Use Case: Perform a two-sample t-test to test if businesses with loans have significantly higher profits.
+
+7. Food Security: Comparing Food Storage Techniques
+Scenario: Researchers evaluate two food storage methods to reduce post-harvest losses in grains.
+
+Dataset 1: Percentage of grains lost using traditional storage methods.
+Dataset 2: Percentage of grains lost using modern storage methods.
+Use Case: Perform a two-sample t-test to determine if modern storage methods significantly reduce post-harvest losses.

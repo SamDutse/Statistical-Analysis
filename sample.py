@@ -1,1 +1,1 @@
-team_list = ["Samuel", "Maxwell"]
+team_list = ["Samuel", "Maxwell","Kenneth"]

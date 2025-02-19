@@ -5,6 +5,9 @@ print(team_list[1])
 print(team_list[2])
 print("I'm sorry for initializing a merge without allowing the next person to do so")
 print(team_list[3])
+print(team_list[5])
+
 
 for person in team_list:
-    print(Person)
+    print(person)
+

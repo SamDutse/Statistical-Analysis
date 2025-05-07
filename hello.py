@@ -1,1 +1,1 @@
-names = ["Sam", "Max", "Gideon", "Joy", "Aaron", "kenny"]
+names = ["Sam", "Max", "Gideon", "Joy", "Aaron", "kenny", "David"]
